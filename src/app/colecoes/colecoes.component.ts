@@ -16,6 +16,7 @@ export class ColecoesComponent implements OnInit {
 
     console.log (this.pessoa.getNome);
 
+
     this.pessoa.setNome = 'samuel alterado';
 
     // this.colecoes ();
